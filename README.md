@@ -1,3 +1,13 @@
+# Business Problem
+
+Retail companies need to understand which products sell the most, which regions generate revenue, and which categories produce profit.
+In this project, I analyzed retail transaction data using Python and created a Power BI dashboard to help management make better business decisions.
+
+## Retail Sales Data Analysis Project
+
+This project analyzes retail store transaction data to identify sales trends, profitable product categories, and customer purchasing patterns.
+The goal is to support business decision-making using data analysis and visualization.
+
 # Retail Sales Analysis (Python + Power BI)
 
 ## Project Overview

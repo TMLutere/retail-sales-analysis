@@ -52,3 +52,5 @@ A Power BI dashboard was created showing:
 ## Author
 Terrence Murendi Lutere
 Junior Data Analyst | Python | SQL | Power BI
+
+Project continuously being improved and maintained.
